@@ -1,3 +1,4 @@
+@regression
 Feature: Testing Login Functionality
 
   Scenario Outline: Happy Path

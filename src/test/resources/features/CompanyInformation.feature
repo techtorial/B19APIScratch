@@ -1,3 +1,4 @@
+@regression
 Feature:Testing company information
 
   Scenario Outline: Happy Path

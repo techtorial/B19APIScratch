@@ -1,3 +1,4 @@
+@regression
 Feature: Testing General App Information
 
   Scenario Outline:
