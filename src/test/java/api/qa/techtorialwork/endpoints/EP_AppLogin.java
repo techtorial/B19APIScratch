@@ -22,5 +22,7 @@ public class EP_AppLogin {
         PJ_AppLogin deserializedResponse=response.as(PJ_AppLogin.class);
 
         Assert.assertEquals(message,deserializedResponse.getMessage());
+
+        System.out.println("Updating existing file.");
     }
 }
